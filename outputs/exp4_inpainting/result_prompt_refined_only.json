@@ -1,0 +1,12 @@
+{
+    "attempt": "prompt_refinement_only",
+    "changed_factor": "prompt",
+    "prompt": "a realistic open book lying flat on the wooden table, clearly visible white pages, next to the existing coffee cup, cozy cafe interior, soft morning light",
+    "steps": 30,
+    "guidance_scale": 7.5,
+    "seed": 42,
+    "time_sec": 4.86,
+    "input_image": "/content/drive/MyDrive/Diffusion\u79d1\u7814\u5b66\u4e60/outputs/exp4_inpainting/input.png",
+    "mask_image": "/content/drive/MyDrive/Diffusion\u79d1\u7814\u5b66\u4e60/outputs/exp4_inpainting/mask.png",
+    "output_image": "/content/drive/MyDrive/Diffusion\u79d1\u7814\u5b66\u4e60/outputs/exp4_inpainting/output_prompt_refined_only.png"
+}

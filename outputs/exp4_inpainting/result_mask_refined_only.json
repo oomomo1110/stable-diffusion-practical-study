@@ -1,0 +1,18 @@
+{
+    "attempt": "mask_refinement_only",
+    "changed_factor": "mask",
+    "prompt": "a realistic open book placed on a wooden table near the window in a cozy cafe, soft morning light, preserve the surrounding cafe interior",
+    "steps": 30,
+    "guidance_scale": 7.5,
+    "seed": 42,
+    "mask_coordinates": [
+        120,
+        280,
+        250,
+        340
+    ],
+    "time_sec": 5.05,
+    "input_image": "/content/drive/MyDrive/Diffusion\u79d1\u7814\u5b66\u4e60/outputs/exp4_inpainting/input.png",
+    "mask_image": "/content/drive/MyDrive/Diffusion\u79d1\u7814\u5b66\u4e60/outputs/exp4_inpainting/mask_refined_only.png",
+    "output_image": "/content/drive/MyDrive/Diffusion\u79d1\u7814\u5b66\u4e60/outputs/exp4_inpainting/output_mask_refined_only.png"
+}

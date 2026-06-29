@@ -1,0 +1,17 @@
+{
+    "attempt": "sanity_check_large_mask",
+    "description": "Large-mask sanity check for inpainting pipeline functionality",
+    "prompt": "a large open book covering most of the masked area on the wooden table, clearly visible white pages, realistic photo",
+    "mask_coordinates": [
+        90,
+        180,
+        280,
+        380
+    ],
+    "steps": 30,
+    "guidance_scale": 10,
+    "strength": 1.0,
+    "seed": 42,
+    "mask_image": "/content/drive/MyDrive/Diffusion\u79d1\u7814\u5b66\u4e60/outputs/exp4_inpainting/mask_sanity_check_large.png",
+    "output_image": "/content/drive/MyDrive/Diffusion\u79d1\u7814\u5b66\u4e60/outputs/exp4_inpainting/output_sanity_check_large_mask.png"
+}

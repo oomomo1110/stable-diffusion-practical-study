@@ -1,0 +1,46 @@
+[
+    {
+        "prompt": "a cozy cafe interior by the window, a wooden table with a cup of coffee and an open book, soft morning light, realistic photo, detailed background",
+        "steps": 10,
+        "avg_time_sec": 3.35,
+        "all_runs_sec": [
+            3.26,
+            3.39,
+            3.4
+        ],
+        "file": "/content/drive/MyDrive/Diffusion\u79d1\u7814\u5b66\u4e60/outputs/exp1_steps_main_cafe/steps_10.png"
+    },
+    {
+        "prompt": "a cozy cafe interior by the window, a wooden table with a cup of coffee and an open book, soft morning light, realistic photo, detailed background",
+        "steps": 15,
+        "avg_time_sec": 4.47,
+        "all_runs_sec": [
+            4.68,
+            4.45,
+            4.27
+        ],
+        "file": "/content/drive/MyDrive/Diffusion\u79d1\u7814\u5b66\u4e60/outputs/exp1_steps_main_cafe/steps_15.png"
+    },
+    {
+        "prompt": "a cozy cafe interior by the window, a wooden table with a cup of coffee and an open book, soft morning light, realistic photo, detailed background",
+        "steps": 30,
+        "avg_time_sec": 7.52,
+        "all_runs_sec": [
+            7.68,
+            7.48,
+            7.38
+        ],
+        "file": "/content/drive/MyDrive/Diffusion\u79d1\u7814\u5b66\u4e60/outputs/exp1_steps_main_cafe/steps_30.png"
+    },
+    {
+        "prompt": "a cozy cafe interior by the window, a wooden table with a cup of coffee and an open book, soft morning light, realistic photo, detailed background",
+        "steps": 50,
+        "avg_time_sec": 12.34,
+        "all_runs_sec": [
+            12.03,
+            12.28,
+            12.71
+        ],
+        "file": "/content/drive/MyDrive/Diffusion\u79d1\u7814\u5b66\u4e60/outputs/exp1_steps_main_cafe/steps_50.png"
+    }
+]
